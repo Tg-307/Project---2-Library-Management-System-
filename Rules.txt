@@ -1,0 +1,3 @@
+1. Issuer have to pay fine with rate of 2 rs./day after 14 days of issuing of a book
+2. until and unless the dues of one transaction is not cleared another book will not be issued to the issuer
+3. while issuing any book the system will authenticate wether this user is already added in the system or not
